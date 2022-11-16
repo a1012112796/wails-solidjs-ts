@@ -1,0 +1,7 @@
+{
+  "name": "Solidjs TypeScript + Vite",
+  "shortname": "wails-solidjs-ts",
+  "author": "a1012112796 <1012112796@qq.com",
+  "description": "solid template with TS enabled, using Vite for asset bundling",
+  "helpurl": "https://github.com/a1012112796/wails-solidjs-ts"
+}
